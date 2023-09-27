@@ -1,0 +1,40 @@
+@font-face{
+	font-family: RobotoCustom;
+	src: url(fonts/Roboto-Black.ttf);
+}
+
+h1{
+	font-family: 'REM', sans-serif;
+	font-style: italic;
+	text-transform: uppercase;
+	font-size: 45px;
+
+	/*Colores*/
+
+	/*Colores del sistema*/
+	color: MediumPurple;
+
+	/*Colores hexadecimales*/
+	color: #CF1F1F;
+
+	/*Colores RGB*/
+	color: rgb(255,255,107);
+
+	/*Colores RGBA*/
+	color: rgb(255,255,107,0.5);
+
+
+
+}
+
+h3{
+	font-family: RobotoCustom, "Comic Sans MS";
+	font-size: 25px;
+	color: Olive;
+}
+
+p{
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
